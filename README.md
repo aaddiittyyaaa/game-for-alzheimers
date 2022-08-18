@@ -5,4 +5,4 @@
 #you can find all the functional code for the pages in /assets/scripts.
 #you can find all the images used for the same in /assets/sprites.
 #you can find all the tools and spefications used for the same in /assets/levels.
-#this project contains four scenes that are integarted together main menu,jigsaw puzzle,simon game,matching cards.
+#this project contains four scenes that are integrated together main menu,jigsaw puzzle,simon game,matching cards.
